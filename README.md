@@ -1,13 +1,13 @@
 # Login/Register Form (Bottom Sheet)
-A customizable login and register form implemented as a bottom sheet in Flutter.
+  - A customizable login and register form implemented as a bottom sheet in Flutter.
 
 
 # Features
 
-    Login and register functionality in a single bottom sheet
-    Form validation for email and password fields
-    Password visibility toggle
-    Easy to use and customize
+    - Login and register functionality in a single bottom sheet
+    - Form validation for email and password fields
+    - Password visibility toggle
+    - Easy to use and customize
 
 # APP Preview
 
